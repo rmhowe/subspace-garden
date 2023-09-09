@@ -1,0 +1,19 @@
+{
+  "name": "subspace-garden",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Robbie Howe",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@types/three": "^0.155.0",
+    "three": "^0.155.0",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.9",
+    "vite-plugin-glsl": "^1.1.2"
+  }
+}
